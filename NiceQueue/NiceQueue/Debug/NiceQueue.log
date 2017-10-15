@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\github\nicequeue\nicequeue\nicequeue\nicestack.h(49): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  c:\github\nicequeue\nicequeue\nicequeue\nicestack.h(59): note: см. ссылку на создание экземпляров класса шаблон при компиляции "NiceStack<T>"
+c:\github\nicequeue\nicequeue\nicequeue\nicestack.h(55): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+c:\github\nicequeue\nicequeue\nicequeue\nicestack.h(58): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+c:\github\nicequeue\nicequeue\nicequeue\nicestack.hpp(18): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+c:\github\nicequeue\nicequeue\nicequeue\nicestack.hpp(37): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+c:\github\nicequeue\nicequeue\nicequeue\nicestack.hpp(45): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+c:\github\nicequeue\nicequeue\nicequeue\nicequeue.h(45): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  c:\github\nicequeue\nicequeue\nicequeue\nicequeue.h(53): note: см. ссылку на создание экземпляров класса шаблон при компиляции "NiceQueue<T>"
+c:\github\nicequeue\nicequeue\nicequeue\nicequeue.h(49): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+c:\github\nicequeue\nicequeue\nicequeue\nicequeue.h(52): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+c:\github\nicequeue\nicequeue\nicequeue\nicequeue.hpp(14): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+c:\github\nicequeue\nicequeue\nicequeue\nicequeue.hpp(22): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+c:\github\nicequeue\nicequeue\nicequeue\nicequeue.hpp(33): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  NiceQueue.vcxproj -> C:\GitHub\NiceQueue\NiceQueue\Debug\NiceQueue.exe
+  NiceQueue.vcxproj -> C:\GitHub\NiceQueue\NiceQueue\Debug\NiceQueue.pdb (Partial PDB)
